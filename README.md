@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align="center">Hi, I'm Mihir Shah 👋</h2>
 
 <!--
 **mihir-ms/mihir-ms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
