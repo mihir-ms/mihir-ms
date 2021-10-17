@@ -1,4 +1,7 @@
-<h2 align="center">Hi, I'm Mihir Shah 👋</h2>
+# Hi, I'm Mihir Shah 👋👨‍💻
+
+- 🔭 I’m currently working on [Wolters Kluwer](https://www.wolterskluwer.com/en-in)
+- 🎓 Computer Science Graduate from KJ Somaiya College of Engineering, Mumbai
 
 <!--
 **mihir-ms/mihir-ms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
