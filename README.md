@@ -1,4 +1,4 @@
-<div style="text-align: center">
+<div align="center">
     <h1>Hi, I'm Mihir Shah 👋</h1>
 </div>
 
@@ -6,7 +6,7 @@
 - 👨🏻‍💻 I’m currently working on [Wolters Kluwer](https://www.wolterskluwer.com/en-in)
 - 🎓 Computer Engineering Graduate from KJ Somaiya College of Engineering, Mumbai
 
-<div style="text-align: center">
+<div align="center">
     <h3><i>Let's connect! Find me on the web</i>🌎:</h3>
     <p>
         <a href="https://www.linkedin.com/in/mihir-ms/" target="_blank"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
