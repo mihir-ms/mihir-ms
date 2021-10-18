@@ -2,8 +2,12 @@
     <h1>Hi, I'm Mihir Shah 👋</h1>
 </div>
 
+<div align="center">
+    <img src="./header-wk-image.png" alt="Mihir Profile Header Image" title="Mihir Profile Header Image" />
+</div>
+
 ## 📖 About Me
-- 👨🏻‍💻 I’m currently working on [Wolters Kluwer](https://www.wolterskluwer.com/en-in)
+- 👨🏻‍💻 I’m currently working @[Wolters Kluwer](https://www.wolterskluwer.com/en-in)
 - 🎓 Computer Engineering Graduate from KJ Somaiya College of Engineering, Mumbai
 
 <div align="center">
