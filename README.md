@@ -7,16 +7,17 @@
 </div>
 
 ## 📖 About Me
-- 👨🏻‍💻 I’m currently working @[Wolters Kluwer](https://www.wolterskluwer.com/en-in)
-- 🎓 Computer Engineering Graduate from KJ Somaiya College of Engineering, Mumbai
-
+- 💼 I’m currently working @[Wolters Kluwer](https://www.wolterskluwer.com/en-in)
+- 🎓 Computer Engineer Graduate from KJ Somaiya College of Engineering, Mumbai
+- 💻 Research Interests: `Web Development`, `Machine Learning`, `Blockchain`
+- 📑 Check out my [Resume](./Mihir_Shah_Resume.pdf)
 <div align="center">
-    <h3><i>Let's connect! Find me on the web</i>🌎:</h3>
+    <h3><i>Let's connect! Find me on the web</i>🌎</h3>
     <p>
         <a href="https://www.linkedin.com/in/mihir-ms/" target="_blank"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
         <a href="https://www.instagram.com/mihir.ms05/" target="_blank"><img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
         <a href="https://www.facebook.com/mihir.ms05/" target="_blank"><img height="30" src="https://img.shields.io/badge/facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
-        <a href="https://twitter.com/mihirshah98" target="_blank"><img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
+        <a href="https://twitter.com/ShahMihir98" target="_blank"><img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
         <a href="mailto:mihirshah050505@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
     </p>
 </div>
@@ -33,12 +34,12 @@
             <img style="margin-left: 5px" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" alt="C++" height="30" title="C++"/>
         <li><h3>Web Development</h3></li>
             <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" height="30" title="HTML5" />
-            <img style="margin-left: 5px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS 3" height="30" title="CSS 3" />
+            <img style="margin-left: 5px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" height="30" title="CSS3" />
             <img style="margin-left: 5px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="Sass" height="30" title="Sass" />
-            <img style="margin-left: 5px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Bootstrap" height="30" title="Bootstrap" />
+            <img style="margin-left: 5px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" height="30" title="JavaScript" />
             <img style="margin-left: 5px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" height="30" title="Bootstrap" />
             <img style="margin-left: 5px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" height="30" title="Angular" />
-            <img style="margin-left: 5px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" height="30" title="Angular" />
+            <img style="margin-left: 5px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" height="30" title="React" />
             <img style="margin-left: 5px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="Flask" height="30" title="Flask" />
             <img style="margin-left: 5px" style="margin-left: 5px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" height="30" title="Django" />
             <img style="margin-left: 5px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="PHP"  height="30" title="PHP" />
