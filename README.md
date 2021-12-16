@@ -10,7 +10,7 @@
 - 💼 I’m currently working @[Wolters Kluwer](https://www.wolterskluwer.com/en-in)
 - 🎓 Computer Engineer Graduate from KJ Somaiya College of Engineering, Mumbai
 - 💻 Research Interests: `Web Development`, `Machine Learning`, `Blockchain`
-- 📑 Check out my [Resume](./Mihir_Shah_Resume.pdf)
+- 📑 Check out my [Resume](./Mihir%20Shah%20Resume.pdf)
 <div align="center">
     <h3><i>Let's connect! Find me on the web</i>🌎</h3>
     <p>
